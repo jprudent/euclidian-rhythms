@@ -9,7 +9,7 @@ The paper can be read [here](https://web.archive.org/web/20210419033814/http://c
 
 You can: 
 - copy/paste the code in your project (it makes sense for this micro lib)
-- depends upon it `{:deps {io.github.jprudent/euclidian-rhythms {:git/tag "laika"}}}`
+- depends upon it `{:deps {io.github.jprudent/euclidian-rhythms {:git/sha "89422b14901a59034ee8f30557c035a678011416"}}}`
 
 ```
 (euclidean-rhythm 16 5)
